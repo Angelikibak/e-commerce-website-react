@@ -1,5 +1,4 @@
 import React from 'react';
-import menuItem from '../../components/menu-item/menu-item';
 import CollectionPreview from '../../components/preview-collection/collection-preview';
 import SHOP_DATA from './shop.data';
 
